@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"scientific_calculator","l":"CurrencyConverter"},{"p":"scientific_calculator","l":"MathQuiz"},{"p":"scientific_calculator","l":"Scientific_Calculator"},{"p":"scientific_calculator","l":"TikTacToe"}];updateSearchResults();
